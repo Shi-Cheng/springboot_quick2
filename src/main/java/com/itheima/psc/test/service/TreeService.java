@@ -57,6 +57,9 @@ public class TreeService {
         beanTree5.setLabel("阿朗乡");
         beanTree5.setPid("540121");
         RegionBeanTree beanTree6 = new RegionBeanTree();
+        beanTree6.setCode("440000");
+        beanTree6.setLabel("阿朗乡");
+        beanTree6.setPid("100000");
         List<RegionBeanTree> rootList = new ArrayList<>();
         rootList.add(beanTree1);
         List<RegionBeanTree> bodyList = new ArrayList<>();
